@@ -17,12 +17,3 @@
 out/
 target/
 .idea_modules/
-.gitignore
-.mvn/wrapper/MavenWrapperDownloader.java
-.mvn/wrapper/maven-wrapper.properties
-HELP.md
-RelationshipHomework.iml
-mvnw
-mvnw.cmd
-pom.xml
-src/
